@@ -1,0 +1,22 @@
+{
+  "name": "typescript-solid",
+  "version": "1.0.0",
+  "description": "principios solid com typescript",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feitosadavi/solid-typescript.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Davi Feitosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/feitosadavi/solid-typescript/issues"
+  },
+  "homepage": "https://github.com/feitosadavi/solid-typescript#readme"
+}
